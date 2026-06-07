@@ -36,8 +36,6 @@ Suggested labels:
 **The Opportunity**
 Why do this? After its extraordinary importance in the 17th to early-19th century, the Caribbean has essentially disappeared from history, becoming merely a picaresque backwater beloved of tourists. But its earlier importance reflected something real: its position offshore major economies as those economies began to expand.  What we see in the 21st century is a retreat in global importance of European economies,  and the focus of the world's opportunities resting on Asia and the US, and specifically the US South. This is mainly, of course, the rise of the AI / Space economies, but in Texas and Florida, with Caribbean islands only a hop away.  But in addition, there is  the sudden rise in importance of the US oil industry, and its infant offshoots in Central America (Venezuela, Guyana, possibly still Trinidad).  
 
-[[/author-only]]
-
 [[note: Revised in June 2026 | This is new information, and it is clearly important to the overall conclusions to take from the Essay]]
 
 The most recent development (first week of June) is that Barbados is inviting bids to develop an oil & gas field found approximately 100km off its coastline.  In the north of the basin, of course, the possibility of radical change in Cuba would similarly re-draw the map of the region, and usher it into new international 'interest'. 
