@@ -13,9 +13,14 @@ body {
 	background: #fcfbf8;
 }
 
+main {
+	overflow: visible;
+}
+
 h1,
 h2,
-p {
+p,
+table {
 	margin-top: 0;
 }
 
@@ -56,6 +61,98 @@ p {
 	margin-bottom: 1.3rem;
 }
 
+.site-header {
+	margin-bottom: 2.25rem;
+}
+
+.subtitle,
+.generated {
+	margin: 0;
+	font-family: "Avenir Next", Avenir, "Segoe UI", Optima, sans-serif;
+	font-size: 0.9rem;
+	letter-spacing: 0.02em;
+	text-transform: uppercase;
+	color: #6a6258;
+}
+
+.generated {
+	margin-top: 0.3rem;
+	font-size: 0.75rem;
+	text-transform: none;
+	letter-spacing: 0.01em;
+}
+
+a {
+	color: #7a3f0e;
+	text-decoration-thickness: 1px;
+	text-underline-offset: 0.12em;
+}
+
+a:hover {
+	color: #50290b;
+}
+
+strong {
+	font-family: "Avenir Next", Avenir, "Segoe UI", Optima, sans-serif;
+	font-size: 0.96em;
+	letter-spacing: 0.015em;
+}
+
+.margin-note {
+	float: left;
+	clear: left;
+	width: 13.5rem;
+	margin-left: -15.8rem;
+	margin-right: 1rem;
+	margin-top: 0.2rem;
+	padding: 0.55rem 0.65rem;
+	border-left: 3px solid #b97d53;
+	background: #f6eee6;
+	color: #5a4432;
+	font-family: "Avenir Next", Avenir, "Segoe UI", Optima, sans-serif;
+	font-size: 0.72rem;
+	line-height: 1.35;
+	letter-spacing: 0.02em;
+	font-style: italic;
+}
+
+.margin-note::before {
+	content: attr(data-label);
+	display: block;
+	margin-bottom: 0.22rem;
+	font-size: 0.62rem;
+	letter-spacing: 0.08em;
+	color: #8a664b;
+	text-transform: uppercase;
+	font-style: normal;
+}
+
+table {
+	width: 100%;
+	display: block;
+	overflow-x: auto;
+	border-collapse: collapse;
+	margin-bottom: 1.6rem;
+	font-size: 0.96rem;
+	line-height: 1.45;
+}
+
+th,
+td {
+	border-bottom: 1px solid #ddd4c8;
+	padding: 0.45rem 0.35rem;
+	text-align: left;
+	vertical-align: top;
+}
+
+th {
+	font-family: "Avenir Next", Avenir, "Segoe UI", Optima, sans-serif;
+	font-size: 0.82rem;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	color: #5f574d;
+}
+
 @media (max-width: 720px) {
 	body {
 		padding: 2.5rem 1.4rem 4rem;
@@ -63,5 +160,12 @@ p {
 
 	h1 {
 		font-size: 1.8rem;
+	}
+
+	.margin-note {
+		float: none;
+		width: auto;
+		margin: 0 0 1rem;
+		font-size: 0.74rem;
 	}
 }
