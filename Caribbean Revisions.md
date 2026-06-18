@@ -220,6 +220,14 @@ Administrative capacity, including the size of the state, and including public s
 Freedom Index source; https://freedomhouse.org/country/scores?type=all
 Human Freedom Index source: https://www.cato.org/books/human-freedom-index-2025
 
+[[note: Revised in June 2026 | This section has been added in response to readers' comments and critique.]]
+**Conclusion - Coherence Can Only Emerge**
+
+In the end maybe this attempt to craft a coherent narrative about what the Caribbean nations are, and their prospects, is for now a failure. In the end, it is defeated by the dramatic and irreducible diversity of the region. Whilst patches of coherence might emerge, such as the oil & gas nexus in south of the basin, maybe there is no obvious wider identity of interests or opportunities. The failure of the West Indian Federation, and the muted ambitions of  Caricom, its successor, perhaps point to that conclusion. 
+
+But not so fast. Maybe commercial and financial energies may yet succeed where  political efforts have failed. One area where progress seems possible is DeFi.  Building DeFi connections across the Caribbean is not only an ambition but arguably a necessity following the loss of historic correspondent banking relationships, driven by its small markets being unable to  justify KYC/AML regulatory costs. Efforts are showing up in Bahamas, Barbados, Jamaica and Cayman to be competitive in digital finance, but so far adoption of Central Bank Digital Currencies in Barbados and Jamaica has been disappointing. 
+
+Similarly, as tourism patterns alter, increasingly favouring arrivals from Central America and the US rather than Europe, so pan-Caribbean connections become easier to spot, to make and to sustain. The story may only now be starting. . . 
 
 
 
